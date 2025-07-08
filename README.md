@@ -3,9 +3,6 @@ So you’ve just created a new repository called blockchain on GitHub. Great sta
 Here’s a complete, ready-to-use README.md and .gitignore for your blockchain project—whether you're working with Solidity, Web3.js, Hardhat, or even Python-based tools like web3.py.
 
 📘 README.md — Your Project's Story
-markdown
-Copy
-Edit
 # 🚀 Blockchain
 
 A foundational blockchain development project including smart contracts, token implementation, wallet integration, and custom consensus mechanisms.
@@ -33,9 +30,6 @@ blockchain/
 ├── README.md
 └── hardhat.config.js   # Or truffle-config.js
 🚀 Getting Started
-bash
-Copy
-Edit
 # Clone the repo
 git clone https://github.com/YOUR-USERNAME/blockchain.git
 cd blockchain
@@ -61,12 +55,6 @@ IPFS (for decentralized storage)
 
 📄 License
 MIT License — feel free to use and contribute!
-
-yaml
-Copy
-Edit
-
----
 
 ## 🛡️ .gitignore — Keep Your Repo Clean
 
