@@ -29,7 +29,9 @@ blockchain/
 ├── .gitignore
 ├── README.md
 └── hardhat.config.js   # Or truffle-config.js
+
 🚀 Getting Started
+
 # Clone the repo
 git clone https://github.com/YOUR-USERNAME/blockchain.git
 cd blockchain
@@ -88,7 +90,8 @@ yarn-error.log*
 .idea/
 *.sublime-workspace
 *.sublime-project
-💡 Final Tips
+
+Final Thoughts 
 Always include a README—your future self will thank you.
 
 Use a proper .gitignore to avoid bloating your repo with junk.
